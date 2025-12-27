@@ -4,7 +4,7 @@
 
 Data Scientist | Applied Machine Learning & AI Research
 
-I’m a Data Scientist with a strong foundation in data analysis, machine learning, and deep learning, specializing in building data-driven AI solutions with real-world impact. My work spans climate intelligence, automation, and scalable AI systems.
+I’m a Data Scientist with a strong foundation in data analysis, machine learning, and deep learning, specializing in building data-driven AI solutions with real-world impact. My work spans medical, climate intelligence, automation, and scalable AI systems.
 
 🔬 Areas of Focus
 
